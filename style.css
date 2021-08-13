@@ -1,0 +1,24 @@
+.links {
+    color: aqua;
+    background-color: beige;
+}
+
+.navbar-brand {
+    color: aqua;
+    background-color: beige;
+}
+
+.menu: hover {
+    background-color: fuchsia;
+    color: mediumblue;
+}
+
+body {
+    font-family: Brush Script MT;
+    background-color: royalblue;
+    font-size: 30px;
+    color: aquamarine;
+}
+p{
+    font-family: monospace;
+}
